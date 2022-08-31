@@ -1,1 +1,1 @@
-{"mappings":"AAAA;AACA;AACA","sources":["src/styles.css"],"sourcesContent":["img {\n    width: 5%;\n}"],"names":[],"version":3,"file":"index.be5cf2f4.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":";AAEA;IACI,aAAa;IACb,sBAAsB;IACtB,mBAAmB;IACnB,kCAAkC;AACtC;;AAEA;IACI,eAAe;IACf,kCAAkC;AACtC;;AAEA;IACI,UAAU;AACd;;AAEA;IACI,SAAS;AACb","sources":["src/styles.css"],"sourcesContent":[null],"names":[],"version":3,"file":"index.be5cf2f4.css.map","sourceRoot":"/__parcel_source_root/"}

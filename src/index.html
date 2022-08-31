@@ -4,11 +4,22 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="styles.css">
     <title>Country Information - Country searcher</title>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+    </style>
+
 </head>
 <body>
     <h1>Let's search some countries</h1>
-    <article id="country-information"></article>
+    <img id="earth-globe" src="assets/Globe_of_the_World_America.jpg">
 
+
+    <form id="search-form">
+        <input type="text" id="search-field" placeholder="Bijvoorbeeld Nederland"/>
+        <button type="submit">Zoeken</button>
+    </form>
+    <article id="country-information"></article>
 
 <script src="app.js" type="module"></script>
 </body>
